@@ -69,7 +69,7 @@
 			children = (
 				24DD4EBB2542C07900E4937A /* Model */,
 				24DD4EBA2542C07200E4937A /* View */,
-				24DD4EBD2542C07F00E4937A /* Presenter */,
+				24DD4EBD2542C07F00E4937A /* ViewModel */,
 				24DD4EB72542C04F00E4937A /* Support Files */,
 				24DD4E9A2542BC7300E4937A /* Assets.xcassets */,
 				24DD4E9C2542BC7300E4937A /* LaunchScreen.storyboard */,
@@ -104,12 +104,12 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		24DD4EBD2542C07F00E4937A /* Presenter */ = {
+		24DD4EBD2542C07F00E4937A /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
 				243B8755254C260C00D01882 /* TraficViewModel.swift */,
 			);
-			path = Presenter;
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		425A146FAC154A516D413230 /* Pods */ = {
